@@ -4,4 +4,12 @@
 
 Laravel Rocket is a yet another boilerplate of [Laravel](https://laravel.com/) framework.
 
+#How to start?
+
+ 1. Clone this
+ `git clone https://github.com/laravel-rocket/installer`
+ 2. cd and 
+ `composer install`
+ 3. from some where 
+ `php /path_dir/installer/rocket new project-name`
 
